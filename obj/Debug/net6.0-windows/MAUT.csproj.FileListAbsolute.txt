@@ -1,0 +1,17 @@
+C:\Users\leagu\OneDrive\Desktop\MAUT\MAUT\MAUT\bin\Debug\net6.0-windows\MAUT.exe
+C:\Users\leagu\OneDrive\Desktop\MAUT\MAUT\MAUT\bin\Debug\net6.0-windows\MAUT.deps.json
+C:\Users\leagu\OneDrive\Desktop\MAUT\MAUT\MAUT\bin\Debug\net6.0-windows\MAUT.runtimeconfig.json
+C:\Users\leagu\OneDrive\Desktop\MAUT\MAUT\MAUT\bin\Debug\net6.0-windows\MAUT.dll
+C:\Users\leagu\OneDrive\Desktop\MAUT\MAUT\MAUT\bin\Debug\net6.0-windows\MAUT.pdb
+C:\Users\leagu\OneDrive\Desktop\MAUT\MAUT\MAUT\obj\Debug\net6.0-windows\MAUT.csproj.AssemblyReference.cache
+C:\Users\leagu\OneDrive\Desktop\MAUT\MAUT\MAUT\obj\Debug\net6.0-windows\MAUT.Form1.resources
+C:\Users\leagu\OneDrive\Desktop\MAUT\MAUT\MAUT\obj\Debug\net6.0-windows\MAUT.csproj.GenerateResource.cache
+C:\Users\leagu\OneDrive\Desktop\MAUT\MAUT\MAUT\obj\Debug\net6.0-windows\MAUT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leagu\OneDrive\Desktop\MAUT\MAUT\MAUT\obj\Debug\net6.0-windows\MAUT.AssemblyInfoInputs.cache
+C:\Users\leagu\OneDrive\Desktop\MAUT\MAUT\MAUT\obj\Debug\net6.0-windows\MAUT.AssemblyInfo.cs
+C:\Users\leagu\OneDrive\Desktop\MAUT\MAUT\MAUT\obj\Debug\net6.0-windows\MAUT.csproj.CoreCompileInputs.cache
+C:\Users\leagu\OneDrive\Desktop\MAUT\MAUT\MAUT\obj\Debug\net6.0-windows\MAUT.dll
+C:\Users\leagu\OneDrive\Desktop\MAUT\MAUT\MAUT\obj\Debug\net6.0-windows\refint\MAUT.dll
+C:\Users\leagu\OneDrive\Desktop\MAUT\MAUT\MAUT\obj\Debug\net6.0-windows\MAUT.pdb
+C:\Users\leagu\OneDrive\Desktop\MAUT\MAUT\MAUT\obj\Debug\net6.0-windows\MAUT.genruntimeconfig.cache
+C:\Users\leagu\OneDrive\Desktop\MAUT\MAUT\MAUT\obj\Debug\net6.0-windows\ref\MAUT.dll
